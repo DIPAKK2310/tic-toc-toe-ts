@@ -6,7 +6,7 @@ A simple Tic Tac Toe game built using **TypeScript**, **HTML**, and **CSS** — 
 
 ## 📸 Preview
 
-<img src="./preview.png" alt="Tic Tac Toe Screenshot" width="500"/>
+<img src="./tic-tac-toe.png" alt="Tic Tac Toe Screenshot" width="500"/>
 
 ---
 
@@ -23,15 +23,24 @@ A simple Tic Tac Toe game built using **TypeScript**, **HTML**, and **CSS** — 
 ## 📁 Folder Structure
 
 tic-tac-toe-ts/
+
 │
 ├── index.html # Game UI
+
 ├── style.css # Styling
+
 ├── script.ts # TypeScript logic
+
 ├── script.js # Compiled JavaScript (from TS)
+
 ├── sounds/ # Folder with all sound effects
+
 │ ├── click.mp3
+
 │ ├── draw.mp3
+
 │ └── win.mp3
+
 └── README.md
 
 yaml
